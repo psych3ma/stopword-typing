@@ -1,6 +1,6 @@
 # ⌨️ WordLens Stopword Typing
 
-[![Screenshot](assets/wordcloud_bts.png)](gleeful-cactus-4d3e40.netlify.app)
+[![Screenshot](static/assets/wordcloud_bts.png)](gleeful-cactus-4d3e40.netlify.app)
 
 > 워드클라우드 생성 시, 원하지 않는 단어(불용어)는 **타이핑으로 직접 등록**해 다시 분석할 수 있는 도구입니다.
 
