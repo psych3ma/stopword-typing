@@ -1,6 +1,6 @@
 # ⌨️ WordLens Stopword Typing
 
-[![Screenshot](static/assets/wordcloud_bts.png)](gleeful-cactus-4d3e40.netlify.app)
+[![Screenshot](static/assets/wordcloud_bts.png)](https://gleeful-cactus-4d3e40.netlify.app)
 
 > 워드클라우드 생성 시, 원하지 않는 단어(불용어)는 **타이핑으로 직접 등록**해 다시 분석할 수 있는 도구입니다.
 
@@ -8,7 +8,7 @@
 최종 결과는 **PNG 이미지**로 저장할 수 있으며, 필요하면 **단어 빈도표**도 함께 붙여서 내보낼 수 있습니다.  
 또한 CSV에 카테고리 컬럼이 있으면 **그룹별 워드클라우드**도 한 번에 만들 수 있습니다.
 
-🔗 **Live Demo**: [gleeful-cactus-4d3e40.netlify.app/](gleeful-cactus-4d3e40.netlify.app/)
+🔗 **Live Demo**: [https://gleeful-cactus-4d3e40.netlify.app/](https://gleeful-cactus-4d3e40.netlify.app/)
 
 ---
 
