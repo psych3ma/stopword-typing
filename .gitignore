@@ -1,0 +1,8 @@
+# Ignore all Markdown docs except root README
+**/*.md
+!README.md
+__pycache__/
+*.pyc
+.DS_Store
+png_sample/
+qa_exports/
